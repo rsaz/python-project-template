@@ -45,9 +45,7 @@ pytest --cov .
 
 Contact me at [email](malito:)
 
-```python
 As an example, commands to run in order to get support and inform about an issue
-```
 
 ## Authors
 
