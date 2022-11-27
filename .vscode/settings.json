@@ -1,0 +1,13 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintPath": "venv/bin/pylint",
+    "pylint.path": [
+        "~/.env/python",
+        "-m",
+        "pylint"
+    ],
+    "python.analysis.extraPaths": [
+        "./src"
+    ]
+}
