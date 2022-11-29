@@ -51,4 +51,4 @@ jobs:
       - name: Build
         run: |
           pip install pyinstaller
-          pyinstaller --onefile --noconsole --name "pyinstaller-test" main.py
+          pyinstaller --onefile --noconsole --name "pyinstaller-test" ./src/main.py
